@@ -1,0 +1,8 @@
+Region (Checkbox)
+Country (Checkbox)
+Name (Text field)
+Industry (Checkbox)
+Market Value NOK (Slider)
+Market Value USD (Slider)
+Voting (Slider)
+Ownership (Slider)
